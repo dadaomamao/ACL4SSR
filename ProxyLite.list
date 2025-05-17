@@ -9,7 +9,8 @@ DOMAIN-SUFFIX,api.themoviedb.org
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,api.thetvdb.org
-DOMAIN-SUFFIX,missav123.com
+DOMAIN-SUFFIX,surrit.com
+DOMAIN-SUFFIX,missav.ai
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
