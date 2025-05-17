@@ -4,7 +4,9 @@
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,kuromis.com
 DOMAIN-SUFFIX,avbebe.com
-
+DOMAIN-SUFFIX,image.tmdb.org
+DOMAIN-SUFFIX,api.themoviedb.org
+DOMAIN-SUFFIX,themoviedb.org
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
