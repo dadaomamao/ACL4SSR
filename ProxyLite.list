@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,api.thetvdb.org
 DOMAIN-SUFFIX,surrit.com
 DOMAIN-SUFFIX,missav.ai
+DOMAIN-SUFFIX,emby-data.bdbd.fun
+DOMAIN-SUFFIX,emby-data.wwwh.eu.org
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
