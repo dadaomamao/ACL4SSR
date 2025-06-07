@@ -9,8 +9,8 @@ DOMAIN-SUFFIX,binance.com
 
 
 # 域名关键字匹配
-DOMAIN-KEDOMAIN-KEYWORD,baidu
 DOMAIN-KEDOMAIN-KEYWORD,binance
+DOMAIN-KEDOMAIN-KEYWORD,baidu
 
 
 
