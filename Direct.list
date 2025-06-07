@@ -4,11 +4,14 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
+DOMAIN-SUFFIX,binance.com
 
 
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,baidu
+DOMAIN-KEDOMAIN-KEYWORD,baidu
+DOMAIN-KEDOMAIN-KEYWORD,binance
+
 
 
 # IP段匹配
