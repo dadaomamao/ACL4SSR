@@ -1,12 +1,6 @@
-# qx_direct_extra.list
-# 直连补充列表（国内域名不解析时，强制直连）
-# -------------------------------------
-
-# 域名后缀匹配
-domain-suffix,time.windows.com
-domain-suffix,lanzov.com
-domain-suffix,hao123.com
-domain-suffix,binance.com
-
-# 域名关键字匹配
-domain-keyword,baidu
+# 直连补充
+DOMAIN-SUFFIX,time.windows.com
+DOMAIN-SUFFIX,lanzov.com
+DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,binance.com
+DOMAIN-KEYWORD,baidu
