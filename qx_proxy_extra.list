@@ -1,51 +1,51 @@
 # NAME: Proxy_Extra
 # AUTHOR: dadaomamao
 # UPDATED: 2025-08-02
-# TOTAL:  65
+# TOTAL: 37
 
-# —— 主要站点 ——
-HOST-SUFFIX,qichiyu.com
-HOST-SUFFIX,kuromis.com
-HOST-SUFFIX,avbebe.com
-HOST-SUFFIX,image.tmdb.org
-HOST-SUFFIX,api.themoviedb.org
-HOST-SUFFIX,themoviedb.org
-HOST-SUFFIX,thetvdb.com
-HOST-SUFFIX,api.thetvdb.org
-HOST-SUFFIX,surrit.com
-HOST-SUFFIX,missav.ai
+######## 主要站点 ########
+HOST-SUFFIX,qichiyu.com,PROXY
+HOST-SUFFIX,kuromis.com,PROXY
+HOST-SUFFIX,avbebe.com,PROXY
+HOST-SUFFIX,image.tmdb.org,PROXY
+HOST-SUFFIX,api.themoviedb.org,PROXY
+HOST-SUFFIX,themoviedb.org,PROXY
+HOST-SUFFIX,thetvdb.com,PROXY
+HOST-SUFFIX,api.thetvdb.org,PROXY
+HOST-SUFFIX,surrit.com,PROXY
+HOST-SUFFIX,missav.ai,PROXY
 
-# —— Emby / 媒体 —— 
-HOST-SUFFIX,emby.xiaoya.pro
-HOST-SUFFIX,icyou.eu.org
-HOST-SUFFIX,emby.8.net.co
-HOST-SUFFIX,emby.raydoom.tk
-HOST-SUFFIX,embyxiaoya.laogl.top
-HOST-SUFFIX,emby-data.poxi1221.eu.org
-HOST-SUFFIX,emby-data.bdbd.fun
-HOST-SUFFIX,emby-data.ymschh.top
-HOST-SUFFIX,emby-data.r2s.site
-HOST-SUFFIX,emby-data.neversay.eu.org
-HOST-SUFFIX,emby-data.800686.xyz
-HOST-SUFFIX,emby-data.xn--yetq23gxma.org
-HOST-SUFFIX,emby-data.younv.at
-HOST-SUFFIX,emby.kaiserver.uk
-HOST-SUFFIX,emby-data.ermaokj.cn
-HOST-SUFFIX,emby-data.wwwh.eu.org
-HOST-SUFFIX,emby-data.f1rst.top
-HOST-SUFFIX,emby-data.wx1.us.kg
-HOST-SUFFIX,emby-data.xnn.ee
+######## Emby / 媒体 ########
+HOST-SUFFIX,emby.xiaoya.pro,PROXY
+HOST-SUFFIX,icyou.eu.org,PROXY
+HOST-SUFFIX,emby.8.net.co,PROXY
+HOST-SUFFIX,emby.raydoom.tk,PROXY
+HOST-SUFFIX,embyxiaoya.laogl.top,PROXY
+HOST-SUFFIX,emby-data.poxi1221.eu.org,PROXY
+HOST-SUFFIX,emby-data.bdbd.fun,PROXY
+HOST-SUFFIX,emby-data.ymschh.top,PROXY
+HOST-SUFFIX,emby-data.r2s.site,PROXY
+HOST-SUFFIX,emby-data.neversay.eu.org,PROXY
+HOST-SUFFIX,emby-data.800686.xyz,PROXY
+HOST-SUFFIX,emby-data.xn--yetq23gxma.org,PROXY
+HOST-SUFFIX,emby-data.younv.at,PROXY
+HOST-SUFFIX,emby.kaiserver.uk,PROXY
+HOST-SUFFIX,emby-data.ermaokj.cn,PROXY
+HOST-SUFFIX,emby-data.wwwh.eu.org,PROXY
+HOST-SUFFIX,emby-data.f1rst.top,PROXY
+HOST-SUFFIX,emby-data.wx1.us.kg,PROXY
+HOST-SUFFIX,emby-data.xnn.ee,PROXY
 
-# —— 教育 / AI ——
-HOST-SUFFIX,studyfetch.com
-HOST-SUFFIX,coursebox.ai
+######## 教育 / AI ########
+HOST-SUFFIX,studyfetch.com,PROXY
+HOST-SUFFIX,coursebox.ai,PROXY
 
-# —— 资讯 / 工具 —— 
-HOST-SUFFIX,iyouport.substack.com
-HOST-SUFFIX,diskanalyzer.com
-HOST-SUFFIX,dog.ssrdog.com
-HOST-SUFFIX,nexitally.com
-HOST-SUFFIX,todoist.com
+######## 资讯 / 工具 ########
+HOST-SUFFIX,iyouport.substack.com,PROXY
+HOST-SUFFIX,diskanalyzer.com,PROXY
+HOST-SUFFIX,dog.ssrdog.com,PROXY
+HOST-SUFFIX,nexitally.com,PROXY
+HOST-SUFFIX,todoist.com,PROXY
 
-# 关键词
-HOST-KEYWORD,1e100
+######## 关键词 ########
+HOST-KEYWORD,1e100,PROXY
