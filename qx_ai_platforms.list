@@ -3,34 +3,34 @@
 # UPDATED: 2025-08-02
 # TOTAL: 32
 
-# 关键字 → 改写为通配或后缀
-HOST-WILDCARD,*openai*
-HOST-WILDCARD,*anthropic*
-HOST-WILDCARD,*claude*
+# ─── 关键字 ───────────────────────────────────
+HOST-KEYWORD,openai,AI_Platforms
+HOST-KEYWORD,anthropic,AI_Platforms
+HOST-KEYWORD,claude,AI_Platforms
 
-# 顶级域名
-HOST-SUFFIX,perplexity.ai
-HOST-SUFFIX,chatgpt.com
-HOST-SUFFIX,auth0.com
-HOST,client-api.arkoselabs.com
-HOST-SUFFIX,events.statsigapi.net
-HOST-SUFFIX,featuregates.org
-HOST-SUFFIX,identrust.com
-HOST-SUFFIX,intercom.io
-HOST-SUFFIX,intercomcdn.com
-HOST-SUFFIX,oaistatic.com
-HOST-SUFFIX,oaiusercontent.com
-HOST-SUFFIX,openai.com
-HOST,openaiapi-site.azureedge.net
-HOST-SUFFIX,sentry.io
-HOST-SUFFIX,stripe.com
-HOST-SUFFIX,bard.google.com
-HOST-SUFFIX,gemini.google.com
-HOST-SUFFIX,makersuite.google.com
-HOST-SUFFIX,anthropic.com
-HOST-SUFFIX,claude.ai
-HOST-SUFFIX,grok.com
-HOST-SUFFIX,dynamed.com
-HOST-SUFFIX,one.google.com
-HOST-SUFFIX,notebooklm.google.com
-HOST-SUFFIX,manus.im
+# ─── 顶级域名 / 后缀 ───────────────────────────
+HOST-SUFFIX,perplexity.ai,AI_Platforms
+HOST-SUFFIX,chatgpt.com,AI_Platforms
+HOST-SUFFIX,auth0.com,AI_Platforms
+HOST-SUFFIX,client-api.arkoselabs.com,AI_Platforms
+HOST-SUFFIX,events.statsigapi.net,AI_Platforms
+HOST-SUFFIX,featuregates.org,AI_Platforms
+HOST-SUFFIX,identrust.com,AI_Platforms
+HOST-SUFFIX,intercom.io,AI_Platforms
+HOST-SUFFIX,intercomcdn.com,AI_Platforms
+HOST-SUFFIX,oaistatic.com,AI_Platforms
+HOST-SUFFIX,oaiusercontent.com,AI_Platforms
+HOST-SUFFIX,openai.com,AI_Platforms
+HOST-SUFFIX,openaiapi-site.azureedge.net,AI_Platforms
+HOST-SUFFIX,sentry.io,AI_Platforms
+HOST-SUFFIX,stripe.com,AI_Platforms
+HOST-SUFFIX,bard.google.com,AI_Platforms
+HOST-SUFFIX,gemini.google.com,AI_Platforms
+HOST-SUFFIX,makersuite.google.com,AI_Platforms
+HOST-SUFFIX,anthropic.com,AI_Platforms
+HOST-SUFFIX,claude.ai,AI_Platforms
+HOST-SUFFIX,grok.com,AI_Platforms
+HOST-SUFFIX,dynamed.com,AI_Platforms
+HOST-SUFFIX,one.google.com,AI_Platforms
+HOST-SUFFIX,notebooklm.google.com,AI_Platforms
+HOST-SUFFIX,manus.im,AI_Platforms
