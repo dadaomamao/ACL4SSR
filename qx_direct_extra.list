@@ -1,6 +1,10 @@
-# 直连补充
-DOMAIN-SUFFIX,time.windows.com
-DOMAIN-SUFFIX,lanzov.com
-DOMAIN-SUFFIX,hao123.com
-DOMAIN-SUFFIX,binance.com
-DOMAIN-KEYWORD,baidu
+# NAME: Direct_Extra
+# AUTHOR: dadaomamao
+# UPDATED: 2025-08-02
+# TOTAL:  5
+
+HOST-SUFFIX,time.windows.com
+HOST-SUFFIX,lanzov.com
+HOST-SUFFIX,hao123.com
+HOST-SUFFIX,binance.com
+HOST-KEYWORD,baidu
