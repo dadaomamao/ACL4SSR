@@ -3,8 +3,9 @@
 # UPDATED: 2025-08-02
 # TOTAL: 5
 
-HOST-SUFFIX,time.windows.com,Direct_Extra
-HOST-SUFFIX,lanzov.com,Direct_Extra
+HOST,time.windows.com,Direct_Extra          # 精确匹配
+HOST-SUFFIX,lanzov.com,Direct_Extra         # 后缀匹配
 HOST-SUFFIX,hao123.com,Direct_Extra
 HOST-SUFFIX,binance.com,Direct_Extra
-HOST-KEYWORD,baidu,Direct_Extra
+HOST-WILDCARD,*baidu*,Direct_Extra          # 关键字改写为通配符
+
