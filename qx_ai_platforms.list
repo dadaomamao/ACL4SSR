@@ -1,0 +1,31 @@
+# openai • bard • anthropic
+domain-keyword,openai
+domain-keyword,anthropic
+domain-keyword,claude
+
+# domain-suffix list
+domain-suffix,perplexity.ai
+domain-suffix,chatgpt.com
+domain-suffix,auth0.com
+domain-suffix,client-api.arkoselabs.com
+domain-suffix,events.statsigapi.net
+domain-suffix,featuregates.org
+domain-suffix,identrust.com
+domain-suffix,intercom.io
+domain-suffix,intercomcdn.com
+domain-suffix,oaistatic.com
+domain-suffix,oaiusercontent.com
+domain-suffix,openai.com
+domain-suffix,openaiapi-site.azureedge.net
+domain-suffix,sentry.io
+domain-suffix,stripe.com
+domain-suffix,bard.google.com
+domain-suffix,gemini.google.com
+domain-suffix,makersuite.google.com
+domain-suffix,anthropic.com
+domain-suffix,claude.ai
+domain-suffix,grok.com
+domain-suffix,dynamed.com
+domain-suffix,one.google.com
+domain-suffix,notebooklm.google.com
+domain-suffix,manus.im
