@@ -1,0 +1,44 @@
+# qx_proxy_extra.list
+# 代理补充列表
+# ------------------------------
+
+# domain-suffix
+domain-suffix,qichiyu.com
+domain-suffix,kuromis.com
+domain-suffix,avbebe.com
+domain-suffix,image.tmdb.org
+domain-suffix,api.themoviedb.org
+domain-suffix,themoviedb.org
+domain-suffix,thetvdb.com
+domain-suffix,api.thetvdb.org
+domain-suffix,surrit.com
+domain-suffix,missav.ai
+domain-suffix,emby.xiaoya.pro
+domain-suffix,icyou.eu.org
+domain-suffix,emby.8.net.co
+domain-suffix,emby.raydoom.tk
+domain-suffix,embyxiaoya.laogl.top
+domain-suffix,emby-data.poxi1221.eu.org
+domain-suffix,emby-data.bdbd.fun
+domain-suffix,emby-data.ymschh.top
+domain-suffix,emby-data.r2s.site
+domain-suffix,emby-data.neversay.eu.org
+domain-suffix,emby-data.800686.xyz
+domain-suffix,emby-data.xn--yetq23gxma.org
+domain-suffix,emby-data.younv.at
+domain-suffix,emby.kaiserver.uk
+domain-suffix,emby-data.ermaokj.cn
+domain-suffix,emby-data.wwwh.eu.org
+domain-suffix,emby-data.f1rst.top
+domain-suffix,emby-data.wx1.us.kg
+domain-suffix,emby-data.xnn.ee
+domain-suffix,studyfetch.com
+domain-suffix,coursebox.ai
+domain-suffix,iyouport.substack.com
+domain-suffix,diskanalyzer.com
+domain-suffix,dog.ssrdog.com
+domain-suffix,nexitally.com
+domain-suffix,todoist.com
+
+# domain-keyword
+domain-keyword,1e100
