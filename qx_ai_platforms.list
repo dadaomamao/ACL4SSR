@@ -1,19 +1,15 @@
 # NAME: AI_Platforms
 # AUTHOR: dadaomamao
 # UPDATED: 2025-08-02
-# TOTAL: 28
+# HOST: 7
+# HOST-SUFFIX: 18
+# TOTAL: 25
 
-# ─── 关键字 ───────────────────────────────────────────────
-HOST-KEYWORD,openai,AI_Platforms
-HOST-KEYWORD,anthropic,AI_Platforms
-HOST-KEYWORD,claude,AI_Platforms
-
-# ─── 顶级 / 子域 ──────────────────────────────────────────
+# ─── HOST-SUFFIX ───────────────────────────────────────
 HOST-SUFFIX,perplexity.ai,AI_Platforms
 HOST-SUFFIX,chatgpt.com,AI_Platforms
 HOST-SUFFIX,auth0.com,AI_Platforms
-HOST-SUFFIX,client-api.arkoselabs.com,AI_Platforms
-HOST-SUFFIX,events.statsigapi.net,AI_Platforms
+HOST-SUFFIX,statsigapi.net,AI_Platforms
 HOST-SUFFIX,featuregates.org,AI_Platforms
 HOST-SUFFIX,identrust.com,AI_Platforms
 HOST-SUFFIX,intercom.io,AI_Platforms
@@ -21,16 +17,19 @@ HOST-SUFFIX,intercomcdn.com,AI_Platforms
 HOST-SUFFIX,oaistatic.com,AI_Platforms
 HOST-SUFFIX,oaiusercontent.com,AI_Platforms
 HOST-SUFFIX,openai.com,AI_Platforms
-HOST-SUFFIX,openaiapi-site.azureedge.net,AI_Platforms
 HOST-SUFFIX,sentry.io,AI_Platforms
 HOST-SUFFIX,stripe.com,AI_Platforms
-HOST-SUFFIX,bard.google.com,AI_Platforms
-HOST-SUFFIX,gemini.google.com,AI_Platforms
-HOST-SUFFIX,makersuite.google.com,AI_Platforms
 HOST-SUFFIX,anthropic.com,AI_Platforms
 HOST-SUFFIX,claude.ai,AI_Platforms
 HOST-SUFFIX,grok.com,AI_Platforms
 HOST-SUFFIX,dynamed.com,AI_Platforms
-HOST-SUFFIX,one.google.com,AI_Platforms
-HOST-SUFFIX,notebooklm.google.com,AI_Platforms
 HOST-SUFFIX,manus.im,AI_Platforms
+
+# ─── 精确 HOST ────────────────────────────────────────
+HOST,client-api.arkoselabs.com,AI_Platforms
+HOST,openaiapi-site.azureedge.net,AI_Platforms
+HOST,bard.google.com,AI_Platforms
+HOST,gemini.google.com,AI_Platforms
+HOST,makersuite.google.com,AI_Platforms
+HOST,one.google.com,AI_Platforms
+HOST,notebooklm.google.com,AI_Platforms
