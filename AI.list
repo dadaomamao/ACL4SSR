@@ -3,6 +3,8 @@
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
+DOMAIN-KEYWORD,cursor
+DOMAIN-KEYWORD,gcpp
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
@@ -30,3 +32,9 @@ DOMAIN-SUFFIX,dynamed.com
 DOMAIN-SUFFIX,one.google.com
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursorapi.com
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,anysphere-binaries.s3.us-east-1.amazonaws.com
+DOMAIN-SUFFIX,downloads.cursor.com
+DOMAIN-SUFFIX,download.todesktop.com
