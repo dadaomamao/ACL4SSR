@@ -48,7 +48,6 @@ DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,datadoghq.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,zendesk.com
-DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,cloudinary.com
 DOMAIN-SUFFIX,sendgrid.net
 DOMAIN-SUFFIX,mailgun.net
