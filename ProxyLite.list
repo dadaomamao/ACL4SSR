@@ -38,6 +38,22 @@ DOMAIN-SUFFIX,diskanalyzer.com
 DOMAIN-SUFFIX,dog.ssrdog.com
 DOMAIN-SUFFIX,nexitally.com
 DOMAIN-SUFFIX,todoist.com
+DOMAIN-SUFFIX,todoist.net
+DOMAIN-SUFFIX,cloudfront.net
+
+DOMAIN-SUFFIX,doist.com
+DOMAIN-SUFFIX,instatus.com
+
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,datadoghq.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,zendesk.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,cloudinary.com
+DOMAIN-SUFFIX,sendgrid.net
+DOMAIN-SUFFIX,mailgun.net
+DOMAIN-SUFFIX,mailchimp.com
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
