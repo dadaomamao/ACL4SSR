@@ -52,6 +52,10 @@ DOMAIN-SUFFIX,cloudinary.com
 DOMAIN-SUFFIX,sendgrid.net
 DOMAIN-SUFFIX,mailgun.net
 DOMAIN-SUFFIX,mailchimp.com
+DOMAIN-SUFFIX,iobit.com
+DOMAIN-SUFFIX,www.iobit.com
+DOMAIN-SUFFIX,update.iobit.com
+DOMAIN-SUFFIX,cdn.iobit.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
