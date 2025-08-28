@@ -1,6 +1,6 @@
 # 内容：虚拟货币相关
 # 域名关键字匹配
-DOMAIN-SUFFIX,binance.com
+DOMAIN-KEYWORD,binance
 
 # 域名后缀匹配
 DOMAIN-KEYWORD,binance
