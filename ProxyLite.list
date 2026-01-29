@@ -55,6 +55,8 @@ DOMAIN-SUFFIX,iobit.com
 DOMAIN-SUFFIX,www.iobit.com
 DOMAIN-SUFFIX,update.iobit.com
 DOMAIN-SUFFIX,cdn.iobit.com
+DOMAIN-SUFFIX,mainnet.base.org
+DOMAIN-SUFFIX,base.blockscout.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
