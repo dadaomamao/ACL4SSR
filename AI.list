@@ -23,7 +23,6 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
@@ -38,3 +37,10 @@ DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,anysphere-binaries.s3.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,downloads.cursor.com
 DOMAIN-SUFFIX,download.todesktop.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,alkalimakersuite-pa.googleapis.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
