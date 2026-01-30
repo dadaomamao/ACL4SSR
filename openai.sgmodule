@@ -1,9 +1,9 @@
-#!name=OpenAI Connection Booster
-#!desc=针对 OpenAI/ChatGPT 启用 HTTP 引擎加速与 DNS 优化，且严格保持当前 IP 不变。
+#!name=OpenAI Booster
+#!desc=OpenAI 加速
 #!system=mac,ios
 
 [General]
-force-http-engine-hosts = %APPEND% *.openai.com, *.chatgpt.com, *.oaistatic.com, *.oaiusercontent.com, *.auth0.com, *.identrust.com, *.stripe.com
+force-http-engine-hosts = %APPEND% *.openai.com, *.chatgpt.com, *.oaistatic.com, *.oaiusercontent.com
 
 [Host]
 *.openai.com = server:1.1.1.1
